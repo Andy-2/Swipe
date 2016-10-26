@@ -1,8 +1,11 @@
-> - 2016-10-26
+## 2016-10-26
+
 > - 本人目前未做任何修改
 > - 只因为作者大人日理万机，并没有把最新版源码发布到'bower'上
 
-> bower install --save andy-2-swipe
+``` shell
+bower install --save andy-2-swipe
+```
 
 ---
 ## Usage
